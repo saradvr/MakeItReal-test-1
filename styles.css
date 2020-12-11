@@ -8,7 +8,6 @@ body{
   background-attachment: fixed;
   margin: auto;
   padding: auto;
-  overflow: hidden;
 }
 
 .main{
@@ -17,11 +16,9 @@ body{
   background-color: rgba(0,0,0,0.5);
   align-items: center;
   text-align: center;
-  padding-top: 30px;
-  padding-bottom: 30px;
 }
 
-.content{
+.contenido{
   width:400px;
   height: 350px;
   text-align: center;
@@ -32,7 +29,7 @@ body{
   font-size: 20px;
 }
 
-#Photo{
+#Foto{
   border-radius: 100%;
   border: 5px solid white;
 }
