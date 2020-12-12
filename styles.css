@@ -19,7 +19,6 @@ body{
   text-align: center;
   display: table-cell;
   vertical-align:middle;
-  border: 1px solid white;
 }
 
 .content{
@@ -32,7 +31,6 @@ body{
   color: white;
   font-family: 'Rancho', cursive;
   font-size: 20px;
-  border: 1px solid red;
 }
 
 #Photo{
