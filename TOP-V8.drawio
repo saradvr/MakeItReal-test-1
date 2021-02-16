@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-16T16:46:37.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="RK0StNejL6oar9xaGsiC" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-16T16:53:30.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="CJNmAJqPp5sQ-zWkBg_E" version="14.3.2" type="github">
   <diagram id="Jklg9QOT_K9N0DZMOlg1" name="Page-1">
     <mxGraphModel dx="906" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,6 +106,12 @@
         <mxCell id="7JWPask3xXybM4j8J5Vb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7JWPask3xXybM4j8J5Vb-2" target="7JWPask3xXybM4j8J5Vb-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7JWPask3xXybM4j8J5Vb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7JWPask3xXybM4j8J5Vb-2" target="7JWPask3xXybM4j8J5Vb-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7JWPask3xXybM4j8J5Vb-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7JWPask3xXybM4j8J5Vb-2" target="7JWPask3xXybM4j8J5Vb-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7JWPask3xXybM4j8J5Vb-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="380" width="60" height="120" as="geometry" />
         </mxCell>
@@ -165,6 +171,12 @@
         </mxCell>
         <mxCell id="7JWPask3xXybM4j8J5Vb-62" value="Create plans" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="30" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7JWPask3xXybM4j8J5Vb-63" value="Buy plans" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="666" y="860" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7JWPask3xXybM4j8J5Vb-64" value="Watch routines" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="666" y="960" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
